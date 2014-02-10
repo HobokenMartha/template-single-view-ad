@@ -1,0 +1,11 @@
+{
+"reponame":"template-single-view-ad",
+"title":"Single View App",
+"tooltip":"[App Designer Ready] This template can be used for simple application that has just one view, this template can be used for creating applications similar to Flash light app or Calculator app.",
+"description":"[App Designer Ready] This template can be used for simple application that has just one view, this template can be used for creating applications similar to Flash light app or Calculator app.",
+"articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
+"visible" : "true",
+"type":"appdesigner",
+"keywords":["App Designer"],
+"highlights" : ["App Designer"]
+}
